@@ -444,7 +444,7 @@ section{
         font-size: 16px;
       }
     .carousel-item img{
-        height: 80vh;
+        height: 50vh;
     }
 
     .carousel-caption {
@@ -487,7 +487,6 @@ section{
         }
         .mobile-menu{
             display: block;
-            width: 50%;
             
         }
         .lg-menu{
